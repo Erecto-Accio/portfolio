@@ -65,24 +65,24 @@ const Portfolio = () => {
               <div className="card-body">
                 <h5 className="card-title">Projects</h5>
                 <div className="row">
-                  <div className="col-12 d-flex gap-4">
+                  <div className="col-md-12 d-flex gap-4">
                     <p className="card-text">
-                      <a href="#">Ecommerce (MERN)</a>
+                      <a href="#">Ecommerce</a>
                     </p>
                     <p className="card-text">
-                      <a href="#">ToDo(React)</a>
+                      <a href="#">ToDo</a>
                     </p>
                     <p className="card-text">
-                      <a href="#">Stopwatch(React)</a>
+                      <a href="#">Stopwatch</a>
                     </p>
                   </div>
                   <div className="row">
-                    <div className="col-12 d-flex gap-4">
+                    <div className="col-md-12 d-flex gap-4">
                       <p className="card-text">
-                        <a href="#">Iems software (MERN)</a>
+                        <a href="#">Iems software</a>
                       </p>
                       <p className="card-text">
-                        <a href="#">Spotify Clone (MERN)</a>
+                        <a href="#">Spotify Clone</a>
                       </p>
                     </div>
                   </div>
