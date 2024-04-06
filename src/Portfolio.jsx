@@ -30,26 +30,32 @@ const Portfolio = () => {
             <div className="card h-100">
               <div className="card-body">
                 <h5 className="card-title">Social</h5>
-                <div className="col-md-12 d-flex gap-3">
-                  <p className="card-text">
-                    <a href="https://www.facebook.com/tousif.tasrik">
-                      Facebook
-                    </a>
-                  </p>
-                  <p className="card-text">
-                    <a href="https://www.instagram.com/xxtra_curricular_/">
-                      Instagram
-                    </a>
-                  </p>
-                  <p className="card-text">
-                    <a href="https://wa.me/+8801915559979">Whatsapp</a>
-                  </p>
-                  <p className="card-text">
-                    <a href="mailto:tousif2567@gmail.com">Gmail</a>
-                  </p>
-                  <p className="card-text">
-                    <a href="https://www.github.com/Erecto-Accio">Github</a>
-                  </p>
+                <div className="row">
+                  <div className="col-md-12 d-flex gap-3">
+                    <p className="card-text">
+                      <a href="https://www.facebook.com/tousif.tasrik">
+                        Facebook
+                      </a>
+                    </p>
+                    <p className="card-text">
+                      <a href="https://www.instagram.com/xxtra_curricular_/">
+                        Instagram
+                      </a>
+                    </p>
+                    <p className="card-text">
+                      <a href="https://wa.me/+8801915559979">Whatsapp</a>
+                    </p>
+                  </div>
+                </div>
+                <div className="row">
+                  <div className="col-12 d-flex gap-4">
+                    <p className="card-text">
+                      <a href="mailto:tousif2567@gmail.com">Gmail</a>
+                    </p>
+                    <p className="card-text">
+                      <a href="https://www.github.com/Erecto-Accio">Github</a>
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
