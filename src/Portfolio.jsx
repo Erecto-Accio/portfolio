@@ -15,7 +15,7 @@ const Portfolio = () => {
 
             <div className="col-md-12 text-center">
               <img
-                src="../main2.jpg"
+                src="https://i.ibb.co/KVmsY6D/main2.jpg"
                 alt=""
                 className="hero-img img-fluid rounded"
               />
